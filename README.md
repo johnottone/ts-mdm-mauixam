@@ -15,6 +15,10 @@
       * [UWP](#uwp-2)
    * [End Devices Enrollment](#end-devices-enrollment)
 
+ARTICLE URL:
+=====
+https://pavlodatsiuk.hashnode.dev/how-to-develop-maui-xamarin-with-mdm-intune-support
+
 What is MDM and why Intune?
 =====
 ![XAM-MDM proj logo](Images/XAM-MDM.png)
